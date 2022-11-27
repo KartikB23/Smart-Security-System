@@ -1,0 +1,7 @@
+PyQt5 
+PyQt5-tools
+opencv-contrib-python
+asyncio
+firebase_admin
+numpy
+python-telegram-bot
